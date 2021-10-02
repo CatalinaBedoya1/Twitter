@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+<img src='gif\walkthru.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Project 3 - *Name of App Here*
 
