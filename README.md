@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/mxapEZogcy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 # Project 3 - *Name of App Here*
 
@@ -50,5 +50,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/01SxI1I4lT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gif\walkthru.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
